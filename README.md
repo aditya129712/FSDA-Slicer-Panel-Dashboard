@@ -3,6 +3,9 @@
 The challenge this week is to build a slicer panel in a report, using the provided planner data. Slicer panels enable us to make use of all the real estate of the canvas. They are an alternative to using the inbuilt filter pane, which may feel less intuitive to report consumers. Additionally, the inbuilt filter pane isn’t visible if a report is shared publicly using publish to web.
 
 
+
+
+
 Requirements : 
 If you’re using Planner data from Excel, start with:
 • Connect to Excel online and bring in task data 
@@ -14,6 +17,11 @@ If you’re using Planner data from Excel, start with:
 • Create measures for: number of tasks, number of tasks completed, number of tasks in progress 
 • Note that you can build this report without creating the date and priority tables, but it won’t behave exactly as you’d like. 
 If you’re starting with the .pbix file with data already loaded/modeled:
+
+
+
+
+
 
 
 Power BI: Build a Slicer Panel
@@ -39,6 +47,9 @@ Power BI: Build a Slicer Panel
      • You must de-select Data from the ellipsis menu to ensure that your slicer selections remain even as you toggle between bookmarks.
      • Once your bookmarks are behaving as you’d expect, add the shape to show the slicer panel. 
      • Assign an action to each of your shapes using your defined bookmarks.
+
+
+
 
 
 
